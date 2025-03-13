@@ -1,0 +1,54 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "Thalys93",
+      "uniqueId": "9073ccee-e3ae-3871-b932-466c6f8d60de"
+    },
+    "time": 1741816810804,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/j0hCczf7rt"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Thalys93",
+      "uniqueId": "9073ccee-e3ae-3871-b932-466c6f8d60de"
+    },
+    "time": 1741452635133,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/cUsSdrnNqM"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Thalys93",
+      "uniqueId": "6dabf168-b5ff-4794-afbf-995db6a40854"
+    },
+    "time": 1741280587271,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/0y2xWo9tKj"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Thalys93",
+      "uniqueId": "6dabf168-b5ff-4794-afbf-995db6a40854"
+    },
+    "time": 1741278004712,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/H0BLx8ZoBX"
+    }
+  }
+]
